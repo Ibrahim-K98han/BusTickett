@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BusTicket/app/src/main/res/drawable/border.xml" value="0.2185" />
+        <entry key="..\:/BusTicket/app/src/main/res/drawable/ic_launcher_background.xml" value="0.159" />
+        <entry key="..\:/BusTicket/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/BusTicket/app/src/main/res/layout/fragment_implecine_intent.xml" value="0.20416666666666666" />
+        <entry key="..\:/BusTicket/app/src/main/res/layout/fragment_new_schedule.xml" value="0.2" />
+        <entry key="..\:/BusTicket/app/src/main/res/layout/fragment_schedule_list.xml" value="0.18" />
+        <entry key="..\:/BusTicket/app/src/main/res/layout/schedul_row.xml" value="0.2" />
+        <entry key="..\:/BusTickett/app/src/main/res/layout/fragment_new_schedule.xml" value="0.25416666666666665" />
+        <entry key="..\:/BusTickett/app/src/main/res/xml/file_paths.xml" value="0.25416666666666665" />
+        <entry key="..\:/RoomBusTicket/app/src/main/res/layout/fragment_new_schedule.xml" value="0.20416666666666666" />
+        <entry key="..\:/RoomBusTicket/app/src/main/res/layout/fragment_schedule_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/RoomBusTicket/app/src/main/res/layout/schedul_row.xml" value="0.20416666666666666" />
+        <entry key="..\:/RoomBusTicket/app/src/main/res/menu/row_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/RoomBusTicket/app/src/main/res/xml/xml.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bus Ticket</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>

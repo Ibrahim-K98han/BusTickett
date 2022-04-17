@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/scheduleListFragment">
+
+    <fragment
+        android:id="@+id/scheduleListFragment"
+        android:name="com.ibrahimssoft.busticket.ScheduleListFragment"
+        android:label="fragment_schedule_list"
+        tools:layout="@layout/fragment_schedule_list" >
+        <action
+            android:id="@+id/action_scheduleListFragment_to_newScheduleFragment"
+            app:destination="@id/newScheduleFragment" />
+        <action
+            android:id="@+id/action_scheduleListFragment_self"
+            app:destination="@id/scheduleListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newScheduleFragment"
+        android:name="com.ibrahimssoft.busticket.NewScheduleFragment"
+        android:label="fragment_new_schedule"
+        tools:layout="@layout/fragment_new_schedule" >
+        <action
+            android:id="@+id/action_newScheduleFragment_to_scheduleListFragment"
+            app:destination="@id/scheduleListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/implecineIntentFragment"
+        android:name="com.ibrahimssoft.busticket.ImplecineIntentFragment"
+        android:label="fragment_implecine_intent"
+        tools:layout="@layout/fragment_implecine_intent" />
+</navigation>
